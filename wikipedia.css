@@ -1,0 +1,29 @@
+body {
+    padding: 0 200px;
+}
+
+b {
+    color: green;
+}
+
+h5 {
+    padding-left: 20px;
+}
+
+ul {
+    padding-left: 70px;
+}
+
+#html2 {
+    padding-left: 40px;
+}
+
+#html3{
+    padding-left: 40px;
+}
+
+.contents{
+    border: solid;
+    text-align: center;
+    width: 200px;
+}
