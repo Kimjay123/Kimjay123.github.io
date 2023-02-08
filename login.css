@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+form{
+    text-align: center;
+    margin: 150px;
+}
+
+a{
+    text-decoration: solid;
+    border: solid;
+    color: black;
+}

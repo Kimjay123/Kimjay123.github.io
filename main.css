@@ -1,0 +1,40 @@
+body{
+    background-image: url(sunset.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: red;
+}
+p{
+    color: black;
+    text-align: center;
+}
+ol{
+    color: black;
+}
+ul{
+    color: black;
+}
+div.container{
+    text-align: center;
+}
+ol.center{
+    display: inline-block;
+    text-align: center;
+}
+ul.center{
+    display: inline-block;
+    text-align: center;
+}

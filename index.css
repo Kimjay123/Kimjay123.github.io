@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin: 150px;
+}
+p{
+    text-align: center;
+}
