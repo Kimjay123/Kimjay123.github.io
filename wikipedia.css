@@ -1,9 +1,27 @@
 body {
-    padding: 0 200px;
+    padding: 0 100px;
 }
 
 b {
     color: green;
+}
+
+.contents{
+    margin-left: 10px;
+
+}
+
+#contents{
+    border: solid;
+    width: 700px;
+}
+
+.draft {
+    padding-left: 60px;
+}
+
+h4 {
+    padding-left: 40px;
 }
 
 h5 {
@@ -18,12 +36,38 @@ ul {
     padding-left: 40px;
 }
 
-#html3{
+#html3 {
     padding-left: 40px;
 }
 
-.contents{
-    border: solid;
-    text-align: center;
-    width: 200px;
+#html4 {
+    padding-left: 40px;
+}
+
+.htmldraft {
+    padding-left: 40px;
+}
+
+.html04 {
+    padding-left: 40px;
+}
+
+#html5 {
+    padding-left: 20px;
+}
+
+.html5 {
+    padding-left: 40px;
+}
+
+.links, p {
+    padding-left: 25px;
+}
+
+#xhtml {
+    padding-left: 60px;
+}
+
+.xhtml {
+    padding-left: 80px;
 }
