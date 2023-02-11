@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(236, 235, 234);
+    padding: 50px;
+}
+
+div {
+    display: inline-block;
+}
+
+nav p{
+    display: inline-block;
+    background-color: #40af0c;
+    border-radius: 20%;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    height: 25px;
+    line-height: 25px;
+    width: 25px;
+    margin-left: 10px;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+li { 
+    margin-bottom: 10px;
+    padding-left: 50px;
+    background-color: white;
+}
+
+ul {
+    padding: 10px;
+    border-radius: 10px;
+    list-style-type: none;
+}
+
+#container {
+    margin: 0 auto;
+    display: block;
+    max-width: 800px;
+}
+
+.firstlist {
+    color: grey;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+
+.lesson {
+    display: block;
+    padding-top: 10px;
+    font-family: sans-serif;
+    color: grey;
+}
+
+.check-container {
+    position: relative;
+}
+
+.check {
+    font-weight: bold;
+    font-size: 25px;
+    color: #40af0c;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
