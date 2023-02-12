@@ -1,11 +1,17 @@
 body{
     background-color: aqua;
 }
-h1{
+h1, h2{
     text-align: center;
     text-decoration: underline;
     margin: 150px;
 }
+
+ol, a{
+    text-align: center;
+    color: red
+}
+
 p{
     text-align: center;
 }
