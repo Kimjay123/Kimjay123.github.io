@@ -4,36 +4,52 @@ body{
     background-repeat: no-repeat;
 
 }
+
 h1{
     color: white;
     text-align: center;
     text-decoration: underline;
 }
+
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-a{
+
+a {
+    color: white;
+}
+
+a:hover{
     color: red;
 }
+
 p{
-    color: black;
+    color: white;
+    text-shadow: 2px 3px black;
     text-align: center;
 }
+
 ol{
-    color: black;
+    color: white;
+    text-shadow: 2px 3px black;
 }
+
 ul{
-    color: black;
+    color: white;
+    text-shadow: 2px 3px black;
 }
+
 div.container{
     text-align: center;
 }
+
 ol.center{
     display: inline-block;
     text-align: center;
 }
+
 ul.center{
     display: inline-block;
     text-align: center;

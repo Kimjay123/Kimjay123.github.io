@@ -1,7 +1,11 @@
 body{
     background-color: aqua;
+    background-image: url(sunset.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1, h2{
+    color: white;
     text-align: center;
     text-decoration: underline;
     margin: 150px;
@@ -9,7 +13,7 @@ h1, h2{
 
 ol, a{
     text-align: center;
-    color: red
+    color: red;
 }
 
 p{
